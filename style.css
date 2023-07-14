@@ -28,7 +28,7 @@ body {
     flex-direction: column;
   }
   nav {
-    display: flex;
+    
     align-items: center;
     padding: var(--spacing-3) 0;
   }
