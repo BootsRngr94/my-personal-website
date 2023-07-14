@@ -1,3 +1,4 @@
-const h2 = document.createElement("h2");
-h2.textContent = "This content added by JavaScript";
-document.querySelector("body").appendChild(h2);
+const timeContainer = document.getElementById("time-container");
+        const BIRTH_DAY = "07-18-1997";
+        const BIRTH_DAY_DATE = new Date(BIRTH_DAY);
+        const intlNumberFormatter = new Intl.NumberFormat("en-US");
