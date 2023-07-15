@@ -49,7 +49,7 @@ body {
     border-radius: var(--border-radius);
     flex-shrink: 0;
   }
-  
+ 
   .about-me-container {
     display: flex;
   }
